@@ -1,0 +1,11 @@
+/*
+Write a program that creates a map containing the U.S. states as keys, 
+	and their capitals as values. 
+	(File to use is attached) 
+The program should then randomly quiz the user by displaying the 
+	name of a state and 
+	ask the user to enter that state’s capital. 
+The program should keep a count of the number of correct and incorrect responses. 
+Quiz the user at least 3 times, no more than 5. 
+A sample of the expected output is also attached.
+*/
